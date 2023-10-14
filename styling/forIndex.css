@@ -1,12 +1,13 @@
+
 body{
-    background-color: gray;
+    background-image: linear-gradient(-180deg,blue,white);
     padding: 13%;
 }
 .resume{
     width: 70em;
     background-color: white;
     box-shadow: 10px 5px 15px black;
-    /* background-color: rebeccapurple; */
+    /* bacground-color: rebeccapurple; */
 }
 .header{
     display: flex;
@@ -64,5 +65,5 @@ ul{
     width:90px;
 }
 .i1_3{
-    width:2px
+    width: 2px;
 }
